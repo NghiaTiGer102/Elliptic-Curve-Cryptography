@@ -1,0 +1,11 @@
+D:\Sau Dai Hoc\BlockChain\Lab\lab1\Code\Elliptic-Curve-Cryptography\ECC\bin\Debug\ECC.exe.config
+D:\Sau Dai Hoc\BlockChain\Lab\lab1\Code\Elliptic-Curve-Cryptography\ECC\bin\Debug\ECC.exe
+D:\Sau Dai Hoc\BlockChain\Lab\lab1\Code\Elliptic-Curve-Cryptography\ECC\bin\Debug\ECC.pdb
+D:\Sau Dai Hoc\BlockChain\Lab\lab1\Code\Elliptic-Curve-Cryptography\ECC\bin\Debug\BouncyCastle.Crypto.dll
+D:\Sau Dai Hoc\BlockChain\Lab\lab1\Code\Elliptic-Curve-Cryptography\ECC\bin\Debug\BouncyCastle.Crypto.xml
+D:\Sau Dai Hoc\BlockChain\Lab\lab1\Code\Elliptic-Curve-Cryptography\ECC\obj\Debug\ECC.csproj.AssemblyReference.cache
+D:\Sau Dai Hoc\BlockChain\Lab\lab1\Code\Elliptic-Curve-Cryptography\ECC\obj\Debug\ECC.csproj.SuggestedBindingRedirects.cache
+D:\Sau Dai Hoc\BlockChain\Lab\lab1\Code\Elliptic-Curve-Cryptography\ECC\obj\Debug\ECC.csproj.CoreCompileInputs.cache
+D:\Sau Dai Hoc\BlockChain\Lab\lab1\Code\Elliptic-Curve-Cryptography\ECC\obj\Debug\ECC.csproj.CopyComplete
+D:\Sau Dai Hoc\BlockChain\Lab\lab1\Code\Elliptic-Curve-Cryptography\ECC\obj\Debug\ECC.exe
+D:\Sau Dai Hoc\BlockChain\Lab\lab1\Code\Elliptic-Curve-Cryptography\ECC\obj\Debug\ECC.pdb
